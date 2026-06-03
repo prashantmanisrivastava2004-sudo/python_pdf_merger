@@ -14,7 +14,7 @@ A Python application that allows users to merge multiple PDF files into a single
 ## Technologies Used
 - Python
 - PyPDF2 / pypdf
-- Tkinter (if GUI is used)
+- Tkinter 
 
 ## Usage
 1. Select the PDF files.
