@@ -1,4 +1,4 @@
-# python_pdf_mergerr
+# python_pdf_merger
 Python-based PDF Merger that combines multiple PDF files into a single document quickly and efficiently.
 
 # PDF Merger
